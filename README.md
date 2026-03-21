@@ -1,5 +1,17 @@
 # Nebula Audit
 
+前言：感谢大白AI对本项目的大力赞助
+
+大白AI QQ群号：1083850789
+
+大白AI官网：https://ai-api.db-kj.com/
+
+使用我的邀请码注册 https://ai-api.db-kj.com/register?aff=mtdt
+
+加入群聊找管理员即可领取5$额度
+
+![dbai](\dbai.jpg)
+
 基于 `Python + Qt (PySide6)` 的桌面代码审计工具，从零实现，满足以下能力：
 
 - 拖拽源码压缩包到聊天式界面，自动解压并发起 LLM 代码审计
