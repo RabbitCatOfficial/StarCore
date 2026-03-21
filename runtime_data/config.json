@@ -1,0 +1,19 @@
+{
+  "provider": "custom",
+  "transport": "responses",
+  "base_url": "https://ai-api.db-kj.com/v1",
+  "chat_path": "responses",
+  "model": "gpt-5.4-xhigh",
+  "api_key": "",
+  "temperature": 0.1,
+  "top_p": 0.95,
+  "max_output_tokens": 9999,
+  "timeout_seconds": 600,
+  "audit_max_files": 99,
+  "audit_max_chars": 99999,
+  "per_file_char_limit": 9994,
+  "extra_headers_json": "",
+  "system_prompt_suffix": "",
+  "verify_ssl": true,
+  "enable_codex_mode": true
+}
