@@ -10,7 +10,7 @@
 
 加入群聊找管理员即可领取5$额度
 
-![dbai](dbai.jpg)
+![dbai](dbai.png)
 
 基于 `Python + Qt (PySide6)` 的桌面代码审计工具，从零实现，满足以下能力：
 
