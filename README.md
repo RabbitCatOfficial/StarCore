@@ -1,6 +1,6 @@
 # Nebula Audit
 
-前言：感谢大白AI对本项目的大力赞助
+前言：感谢大白AI对本项目的大力支持
 
 大白AI QQ群号：1083850789
 
@@ -18,9 +18,9 @@
 - 强制使用流式输出展示审计结果
 - 配置页支持一键测试模型连接
 - 本地保存 Markdown 审计报告，并在软件内管理和预览
-- 支持 OpenAI、Qwen、Moonshot、SiliconFlow、OpenRouter、AI-DB-KJ、Ollama 和自定义接口配置
+- 支持 CC、GPT、GLM、Qwen、Gemini 等大模型配置
 - 同时支持 `chat/completions`、`responses` 和 `Ollama api/chat` 三种接口协议
-- 使用带科幻感但不过度炫光的 Qt 深色界面
+- 使用 Qt 深色界面
 
 ## 运行
 
